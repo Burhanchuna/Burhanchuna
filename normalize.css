@@ -14650,7 +14650,7 @@ header.nav-fixed {
     z-index: 99;
 }
 
-.navbar-dark .navbar-nav .show >,
+.navbar-dark .navbar-nav .show >
 .navbar-dark .navbar-nav .nav-link.show {
     color: var(--para-color);
 }
